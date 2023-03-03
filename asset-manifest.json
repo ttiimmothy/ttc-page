@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/static/css/main.7996876d.css",
-    "main.js": "/static/js/main.35606bf9.js",
-    "static/js/496.fbea8424.chunk.js": "/static/js/496.fbea8424.chunk.js",
-    "service-worker.js": "/service-worker.js",
-    "index.html": "/index.html",
-    "main.7996876d.css.map": "/static/css/main.7996876d.css.map",
-    "main.35606bf9.js.map": "/static/js/main.35606bf9.js.map",
-    "496.fbea8424.chunk.js.map": "/static/js/496.fbea8424.chunk.js.map"
+    "main.css": "/ttc-page/static/css/main.7996876d.css",
+    "main.js": "/ttc-page/static/js/main.d7993d2c.js",
+    "static/js/496.fbea8424.chunk.js": "/ttc-page/static/js/496.fbea8424.chunk.js",
+    "service-worker.js": "/ttc-page/service-worker.js",
+    "index.html": "/ttc-page/index.html",
+    "main.7996876d.css.map": "/ttc-page/static/css/main.7996876d.css.map",
+    "main.d7993d2c.js.map": "/ttc-page/static/js/main.d7993d2c.js.map",
+    "496.fbea8424.chunk.js.map": "/ttc-page/static/js/496.fbea8424.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.7996876d.css",
-    "static/js/main.35606bf9.js"
+    "static/js/main.d7993d2c.js"
   ]
 }
